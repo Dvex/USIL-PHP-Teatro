@@ -1,5 +1,6 @@
 <?php
-
+include "sites/all/modules/fb/fb_url_rewrite.inc";
+include "sites/all/modules/fb/fb_settings.inc";
 /**
  * @file
  * Drupal site-specific configuration file.
@@ -90,7 +91,7 @@
  */
 $db_url = 'mysqli://root@localhost/teatro_usil';
 $db_prefix = '';
-
+$conf['fb_api_file'] = 'sites/all/libraries/facebook-php-sdk/src/facebook.php';
 /**
  * Database default collation.
  *
