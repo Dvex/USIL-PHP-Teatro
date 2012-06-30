@@ -130,8 +130,8 @@ print drupal_get_js('header', $js); ?>
     <div class="container footer-divider clearfix">
     
         <div id="footer-left">
-        <h4>Lorem ipsum </h4>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque mattis velit non ipsum accumsan eget ultricies metus ultricies. Nam dictum est ut ligula dapibus scelerisque. Vestibulum eu tincidunt urna. Etiam nisl neque, imperdiet ut laoreet nec, auctor et turpis. Proin congue, velit in auctor dignissim, sapien magna vulputate ante, et adipiscing nulla dolor a ligula. Nunc nec euismod velit.
+        <h4>TEATROS USIL </h4>
+        Esta es una aplicación basada en PHP usando el Framework de Drupal. Donde se mostrará todo los Teatros que han sido publicados por los diversos usuarios.
         <?php print $footer_left; ?>
         </div>
     
