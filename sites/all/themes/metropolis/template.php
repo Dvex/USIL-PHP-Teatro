@@ -54,7 +54,7 @@ function metropolis_preprocess_page(&$vars, $hook) {
 	}
 
 	$vars['body_classes'] = implode(' ', $body_classes);
-	$vars['footer_message'] .= '<div style="clear:both; font-size:11px; text-align:center;"><em>Theme provided by <a href="http://drupalbycity.com">DrupalByCity</a> under GPL license from <a href="http://comprendo.dk">Comprendo</a></em></div>';
+	$vars['footer_message'] .= '<div style="clear:both; font-size:11px; text-align:center;"><em>Sitio Web Creado para la publicación de Obras Teatrales hechos por Alumnos de la Universidad San Ignacio de Loyola</em></div>';
 
  }
  
